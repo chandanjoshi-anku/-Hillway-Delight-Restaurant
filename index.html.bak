@@ -269,6 +269,7 @@ header {
 
     <div id="main-content">
         <header>
+		<h1></h1>
             <h1>Hillway Delight Restaurant </h1>
             <nav>
                 <ul>
